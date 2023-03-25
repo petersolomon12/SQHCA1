@@ -5,8 +5,8 @@
 
 ## TOPICS
 
-- Code Review
-- Task Estimation in Scrum
-- One other topic
+- Code Review - Ebun
+- Task Estimation in Scrum - Bianca
+- One other topic - Peter
 
 
