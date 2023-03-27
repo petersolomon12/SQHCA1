@@ -10,7 +10,7 @@ There should be a clear and easy to follow process defined before beginning any 
 
 
 <p align="center">
- <img src="images/pull_request_img" alt="pull_request_image" width="300">
+ <img src="Images/pull_request_img.png" alt="pull_request_image.png" width="300">
 </p>
 
 
@@ -18,7 +18,7 @@ There should be a clear and easy to follow process defined before beginning any 
 Example:
 
 <p align="center">
- <img src="images/comment_img" alt="comment_image" width="300">
+ <img src="images/comment_img.png" alt="comment_image" width="300">
 </p>
 
  
