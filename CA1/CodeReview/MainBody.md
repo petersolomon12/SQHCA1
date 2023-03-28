@@ -3,10 +3,10 @@ Guidelines for Code Review
 1.Define the Process
 There should be a clear and easy to follow process defined before beginning any code review. This process may look slightly different for other teams but must ultimately have the same result. A simple example of a defined process can be found below:
 
--The author of the code opens a new Pull Request, along with a short descriptive title and comment detailing the code.
+- The author of the code opens a new Pull Request, along with a short descriptive title and comment detailing the code.
  
  
--The reviewer begins to review the changes, seeing if they match the intended changes.
+- The reviewer begins to review the changes, seeing if they match the intended changes.
 
 
 <p align="center">
@@ -14,7 +14,7 @@ There should be a clear and easy to follow process defined before beginning any 
 </p>
 
 
--The reviewer can spot bad practices here and comment on them.
+- The reviewer can spot bad practices here and comment on them.
 Example:
 
 <p align="center">
@@ -24,7 +24,7 @@ Example:
  
 Note: As a reviewer, make sure to direct these comments at the code, not the author
 
--Once changes have been made (if requested), merge the Pull Request
+- Once changes have been made (if requested), merge the Pull Request
 
 
 2.Keep Focus on the Correct Things
@@ -58,20 +58,16 @@ Authors also need to remember to be open to critique and suggestion. Shared know
 There’s always room for improvement!
 
 
-
-
-
 Links for further reading:
-Gaper: Benefits of Code Review: Every Team Must Know [2022 Guides] - https://gaper.io/benefits-of-code-review/
+- [Gaper: Benefits of Code Review: Every Team Must Know [2022 Guides]](https://gaper.io/benefits-of-code-review/)
 
-Wikipedia: Code review -  https://en.wikipedia.org/wiki/Code_review
+- [ Wikipedia: Code review](https://en.wikipedia.org/wiki/Code_review)
 
-YouTube: Code Review Best Practices For Software Engineers - https://www.youtube.com/watch?v=1Ge__2Yx_XQ
+- [YouTube: Code Review Best Practices For Software Engineers ](https://www.youtube.com/watch?v=1Ge__2Yx_XQ)
 
-Swarmia: A complete guide to code reviews - https://www.swarmia.com/blog/a-complete-guide-to-code-reviews/?utm_term=code%20review%20steps&utm_campaign=SRH-REVIEW-EU-EN&utm_source=adwords&utm_medium=ppc&hsa_acc=6644081770&hsa_cam=16463390785&hsa_grp=134848023275&hsa_ad=585675515692&hsa_src=g&hsa_tgt=kwd-816727255637&hsa_kw=code%20review%20steps&hsa_mt=p&hsa_net=adwords&hsa_ver=3&gclid=Cj0KCQjw2v-gBhC1ARIsAOQdKY1Y5VzoQQip7SV_ZN-tjrrQTFFwQxr34YFpWkRpp_19gaKrTkcVTx8aAixMEALw_wcB
+- [Swarmia: A complete guide to code reviews](https://www.swarmia.com/blog/a-complete-guide-to-code-reviews/?utm_term=code%20review%20steps&utm_campaign=SRH-REVIEW-EU-EN&utm_source=adwords&utm_medium=ppc&hsa_acc=6644081770&hsa_cam=16463390785&hsa_grp=134848023275&hsa_ad=585675515692&hsa_src=g&hsa_tgt=kwd-816727255637&hsa_kw=code%20review%20steps&hsa_mt=p&hsa_net=adwords&hsa_ver=3&gclid=Cj0KCQjw2v-gBhC1ARIsAOQdKY1Y5VzoQQip7SV_ZN-tjrrQTFFwQxr34YFpWkRpp_19gaKrTkcVTx8aAixMEALw_wcB)
 
-Smartbear: Best Practices for Code Review - https://smartbear.com/learn/code-review/best-practices-for-peer-code-review/
-
+- [Smartbear: Best Practices for Code Review](https://smartbear.com/learn/code-review/best-practices-for-peer-code-review/)
 
 
  [Introduction](Introduction.md)

@@ -4,12 +4,12 @@ Code Review can simply be defined as an activity in software quality assurance i
 
 Performing Code Reviews can have many benefits, including the fact that they can help a development team to find better solutions and share knowledge that can improve the code and their own skills as software developers. Other benefits include:
 
--Reduced need for extensive refactoring.
--Team collaboration.
--Feedback from peers.
--Shared knowledge.
--Time saving.
--Ensuring compliance with code regulations and guidelines.
+- Reduced need for extensive refactoring.
+- Team collaboration.
+- Feedback from peers.
+- Shared knowledge.
+- Time saving.
+- Ensuring compliance with code regulations and guidelines.
 
 
  [Main Body](MainBody.md)
