@@ -18,7 +18,7 @@
 - Each member creates a branch to work on for their specific topic.
 - When they have completed they commit their work and push for review.
 - Depending on the magnitutde of the changes, pull request will require atleast one team member to ok for merging.
-- Will meet periodically, to update on progress. (Atleast 3 meetings.)
+- Will meet periodically, to update on progress. (Atleast 3 meetings)
 
 
 ---
