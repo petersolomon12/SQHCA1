@@ -3,9 +3,9 @@
 
 ## TOPICS
 
-- Code Review - **Ebun**
-- Task Estimation in Scrum - **Bianca**
-- Coding Standard, Introduction And Processes Or Plan - **Peter**
+- [Code Reviews](../CodeReview/Introduction.md) - **Ebun**
+- [Task Estimation](../TaskEstimation/Main.md) - **Bianca**
+- [Coding Standards](../CodingStandards/Introduction.md), Introduction And Processes Or Plan - **Peter**
 
 ---
 
