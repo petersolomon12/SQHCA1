@@ -32,6 +32,12 @@
 - ## **Easier Onboarding** : 
 -	Consistent coding standards makes it easier for new team members to join.
 -	Coding standards makes it easier for developers to identify the structure and purpose of the code.
+-   This cuts down the time that new team members spend trying to learn the team's practices and increases optimisation.
+
+- ## **Reduction of Development Cost** : 
+- Good coding standard reduces the errors in a code thus you spend less time debugging, it saves time when working on a full scale project.
+- It takes less time to build a project which implements good coding practices/standards.
+- Easier to maintain, a project that is easier to maintain will be cheaper in cost as their isn't big labour cost being put in for the upkeeping.
 
 ---
 
